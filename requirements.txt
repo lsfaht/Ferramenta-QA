@@ -1,0 +1,5 @@
+streamlit==1.66.1
+pytest==9.1.1
+ruff==0.17.2
+markdown==3.11.2
+httpx==0.28.1

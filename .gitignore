@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+data/
+demo-data/
+backups/
+.env
+*.log
+artifacts/
+.playwright-mcp/
